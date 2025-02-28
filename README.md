@@ -1,4 +1,4 @@
-# cristian
+# repositorio del curso de git
 primer repo creado en github
 
 ## descripcion
